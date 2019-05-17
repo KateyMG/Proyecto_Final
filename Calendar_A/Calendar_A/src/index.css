@@ -105,13 +105,13 @@ body {
     width: 100%;
     padding: 3px;
 
-    background-color: #ADD8E6;
+    background-color: #81F781;
 }
 
 .reminder__label.reminder__label--work {
-    background-color: #FFF0F5;
+    background-color: #FFFF00;
 }
 
 .reminder__label.reminder__label--calendar {
-    background-color: #F0FFF0;
+    background-color: #FE2E2E;
 }
